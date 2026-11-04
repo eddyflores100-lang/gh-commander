@@ -167,5 +167,31 @@
   "score": 90.0,
   "apply_url": "https://jobs.ashbyhq.com/e2b/8807b7c1-3dc4-4f4c-bb20-634fcef4634c/application",
   "harvested": "2026-11-03"
+ },
+ {
+  "ats": "ashby",
+  "key": "ashby/langchain/c4b4b4e2-f434-460a-89a4-355ca53983ac",
+  "slug": "langchain",
+  "id": "c4b4b4e2-f434-460a-89a4-355ca53983ac",
+  "company": "langchain",
+  "title": "Integrated Campaigns Manager",
+  "category": "ai",
+  "location": "San Francisco, CA",
+  "score": 90.0,
+  "apply_url": "https://jobs.ashbyhq.com/langchain/c4b4b4e2-f434-460a-89a4-355ca53983ac/application",
+  "harvested": "2026-11-04"
+ },
+ {
+  "ats": "ashby",
+  "key": "ashby/langchain/6a53f11d-5446-4ca2-baf5-c4b84d4986a7",
+  "slug": "langchain",
+  "id": "6a53f11d-5446-4ca2-baf5-c4b84d4986a7",
+  "company": "langchain",
+  "title": "Performance Marketing Manager, Paid Search & AI Advertising",
+  "category": "ai",
+  "location": "San Francisco, CA",
+  "score": 90.0,
+  "apply_url": "https://jobs.ashbyhq.com/langchain/6a53f11d-5446-4ca2-baf5-c4b84d4986a7/application",
+  "harvested": "2026-11-04"
  }
 ]
